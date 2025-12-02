@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    padding: 0;
+    margin-bottom: 5px;
+}
+
+form {
+    display: flex;
+    gap: 5px;
+}
+
+li {
+    height: 25px;
+    width: 25px;
+}
+
+img {
+    opacity: 0.4;
+    height: 30px;
+    width: 30px;
+}
+
+.active-card {
+    opacity: 1;
+    /* border: 1px solid salmon; */
+} 
+
+.input {
+    height: 30px;
+    box-sizing: border-box;
+}
+
+.validate-btn {
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 30px;
+    font-size: 14px;
+}
+
+.validate-btn:hover {
+    cursor: pointer;
+    background-color: rgb(216, 190, 123);
+}
+
+.valid-marker {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.invalid-marker {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.inactive-marker {
+    display: none;
+}
+

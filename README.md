@@ -1,0 +1,1 @@
+![CI](https://github.com/NedorezovNS/testing/actions/workflows/web.yml/badge.svg)
