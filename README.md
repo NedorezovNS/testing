@@ -1,1 +1,1 @@
-![CI](https://github.com/NedorezovNS/testing/actions/workflows/web.yml/badge.svg)
+[![Build status]](https://ci.appveyor.com/project/NedorezovNS/testing)
