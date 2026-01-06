@@ -1,1 +1,1 @@
-[![Build status]](https://ci.appveyor.com/project/NedorezovNS/testing)
+
